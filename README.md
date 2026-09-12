@@ -7,3 +7,5 @@ This repository is for double-blind review purposes of the manuscript entitled "
   html version: anonymous_pluto_Calculus_II.html
 
 - Python & Jupyter Notebook: anonymous_python_Calculus_II.ipynb
+
+    [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anon-math/Bougainvillea/)
